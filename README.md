@@ -5,5 +5,5 @@
 - 🛠️ Tech I work with: Go, Next.js, React, TypeScript, PostgreSQL (Supabase), Python, and Docker.
 - 📦 I build full-stack apps, APIs, and tools that simplify life.
 - 🚀 Currently working on: A full-stack booking system and a few small SaaS ideas.
-- 🌐 Check out my portfolio at warrenpaschetto.com
+- 🌐 Check out my portfolio at [warrenpaschetto.com](https://www.warrenpaschetto.com/)
 
