@@ -8,8 +8,8 @@
 - 🌐 Check out my portfolio at [warrenpaschetto.com](https://www.warrenpaschetto.com/)
 
 
-<!-- 
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=warrenpaschetto&show_icons=true&theme=dark)
--->
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=warrenpaschetto&layout=compact&theme=dark)
 
