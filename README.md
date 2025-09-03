@@ -9,7 +9,7 @@
 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=warrenpaschetto&show_icons=true&theme=transparent)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=warrenpaschetto&show_icons=true&theme=neon)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=warrenpaschetto&layout=compact&theme=transparent)
 
